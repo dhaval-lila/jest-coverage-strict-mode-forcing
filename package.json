@@ -1,0 +1,22 @@
+{
+  "name": "jest-coverage-strict-mode-forcing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhaval-lila/jest-coverage-strict-mode-forcing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhaval-lila/jest-coverage-strict-mode-forcing/issues"
+  },
+  "homepage": "https://github.com/dhaval-lila/jest-coverage-strict-mode-forcing#readme",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
